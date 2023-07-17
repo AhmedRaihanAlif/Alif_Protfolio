@@ -1,0 +1,40 @@
+/* Navbar */
+.navbar{
+    background-color: #fdf8f7;
+    position: fixed;
+    z-index: 999;
+    width: 100%;
+}
+
+/* Logo */
+.navbar-brand img{
+    width: 100px;
+}
+
+.navbar-toggler-icon{
+    color: #fd6e0a !important;
+}
+
+/* Nav */
+.nav-link{
+    color: #15295f;
+    font-size: 18px;
+    font-weight: 600;
+    margin: auto 1rem;
+    transition: all 0.5s ease;
+}
+
+.nav-item .active{
+    color: #fd6e0a !important;
+}
+
+/* Nav Button */
+.btn{
+    padding: 10px 30px;
+    cursor: pointer;
+    transition: all 0.5s ease;
+    border-radius: 50px;
+}
+
+
+

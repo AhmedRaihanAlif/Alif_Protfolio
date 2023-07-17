@@ -1,0 +1,43 @@
+.service-section {
+  overflow: hidden;
+  padding: 70px 0;
+}
+
+.service-section row {
+  flex-wrap: nowrap;
+}
+
+.service-title-container {
+  max-width: 25%;
+  padding: 0;
+}
+
+.section_title p {
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 1.5;
+  color: #fd6e0a;
+}
+
+.section_title h2 {
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 1.5;
+  text-transform: capitalize;
+  color: #15295f;
+}
+
+.services-cont{
+    padding: 40px 20px;
+    max-width: 75%;
+}
+
+
+@media only screen and (max-width: 992px){
+  .service-title-container {
+    max-width: 100%;
+  }
+  .services-cont{
+    max-width: 100%;
+}
+}

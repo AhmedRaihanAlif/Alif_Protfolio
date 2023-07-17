@@ -1,0 +1,27 @@
+.skills-section{
+    background: #fdf8f7;
+    padding: 70px 0;
+}
+
+.skill-items{
+    margin-top: 3rem;
+    padding: 2rem;
+    background-color: #ffff;
+    border-radius: 6px;
+}
+
+.skill-items img{
+    width: 50px;
+    margin: 2rem 2rem 1rem ;
+}
+
+.skill-items p{
+    font-weight: 600;
+}
+
+@media only screen and (max-width: 576px){
+    .skill-items .row{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+    }
+}
