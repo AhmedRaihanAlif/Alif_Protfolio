@@ -2,18 +2,11 @@
 
 ## Table of contents
 
-  - [Screenshot](#screenshot)
+ 
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Useful resources](#useful-resources)
-- [Author](#author)
 - [Conclusion](#conclusion)
-
-
-### Screenshot
-
-![](./Screenshots/react-portfolio_Desktop.png)
-
 
 ### Built with
 
@@ -40,11 +33,8 @@
 - [Typewriter-Effect](https://www.npmjs.com/package/typewriter-effect) - This is a npm package for Typewriter effect.
 
 
-## Author
 
-- Website - [MOHAMMED SALIH KV](https://github.com/salih-kv)
-- React Portfolio - [@react-portfolio](https://salih-kv.github.io/react-portfolio/)
 
 ## Conclusion
 
-This is my first react project (A task by Entri Elevate BootCamp || React App Development ). Through this learning experience, I have gained a basic understanding of React and its associated technologies. I look forward to continuing to build upon this knowledge in future projects.
+This is my first react project ( React App Development ). Through this learning experience, I have gained a basic understanding of React and its associated technologies. I look forward to continuing to build upon this knowledge in future projects.
